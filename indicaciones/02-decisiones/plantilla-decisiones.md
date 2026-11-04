@@ -1,6 +1,4 @@
 
----
-cd
 # Decisiones de mi sitio
 
 **Emprendimiento:** (Piedra viva)
