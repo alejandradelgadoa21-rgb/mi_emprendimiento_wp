@@ -10,11 +10,11 @@ Los plugins seleccionados permiten mejorar la visibilidad de Piedra Viva, facili
 
 | Funcionalidad | Plugin | Precio | Qué incluye la versión gratuita | Compatibilidad WordPress | Tema propio | Enlace |
 |---|---|---|---|---|---|---|
-| Optimización SEO | Yoast SEO | Gratis y versión Premium de pago | Análisis SEO, legibilidad, títulos y metadescripciones. | Verificar en ficha oficial | Sí | https://wordpress.org/plugins/wordpress-seo/ |
-| Formulario de contacto | Contact Form 7 | Gratis | Creación de formularios y envío de consultas por correo. | Verificar en ficha oficial | Sí | https://wordpress.org/plugins/contact-form-7/ |
-| Galería de fotografías | FooGallery | Gratis y versión Pro de pago | Permite crear galerías y mostrar fotografías de instalaciones y pulidos. | Verificar en ficha oficial | Sí | https://wordpress.org/plugins/foogallery/ |
-| Estadísticas del sitio | Site Kit by Google | Gratis | Permite conectar Google Analytics y Search Console para revisar visitas y rendimiento. | Verificar en ficha oficial | Sí | https://wordpress.org/plugins/google-site-kit/ |
-| Compartir contenido en redes sociales | Simple Social Media Share Buttons | Gratis y versión Pro de pago | Permite incorporar botones para compartir artículos y contenidos. | Verificar en ficha oficial | Sí | https://wordpress.org/plugins/simple-social-buttons/ |
+| Optimización SEO | Yoast SEO | Gratis y versión Premium de pago | Análisis SEO, legibilidad, títulos y metadescripciones. | Probado hasta WP 7.1.4 · Requiere PHP 7.4+ | Sí | https://wordpress.org/plugins/wordpress-seo/ |
+| Formulario de contacto | Contact Form 7 | Gratis | Creación de formularios y envío de consultas por correo. | Probado hasta WP 7.1.4 · Requiere PHP 8.3+ | Sí | https://wordpress.org/plugins/contact-form-7/ |
+| Galería de fotografías | FooGallery | Gratis y versión Pro de pago | Permite crear galerías y mostrar fotografías de instalaciones y pulidos. | Probado hasta WP 7.1.4 · Requiere PHP 7.0+ | Sí | https://wordpress.org/plugins/foogallery/ |
+| Estadísticas del sitio | Site Kit by Google | Gratis | Permite conectar Google Analytics y Search Console para revisar visitas y rendimiento. | Probado hasta WP 7.1.4 · Requiere PHP 7.4+ | Sí | https://wordpress.org/plugins/google-site-kit/ |
+| Compartir contenido en redes sociales | Simple Social Media Share Buttons | Gratis y versión Pro de pago | Permite incorporar botones para compartir artículos y contenidos. | Probado hasta WP 7.1.4 · Requiere PHP 7.1+ | Sí | https://wordpress.org/plugins/simple-social-buttons/ |
 
 ## 2. Páginas de la fase 1
 
