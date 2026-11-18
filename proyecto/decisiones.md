@@ -60,20 +60,23 @@ Tienda, catálogo de productos, fichas de productos, filtros, carrito de compras
 
 ---
 
+---
+
 ## 3. Datos del sitio publicado
 * **URL pública:** https://piedraviva.freepage.cc/
-* **Tema utilizado:** Kitchio Lite
+* **Tema utilizado:** Twenty Twenty-Five
 
 ---
 
 ## 4. Mejoras y cambios realizados respecto a la entrega anterior
 Para consolidar la identidad visual, navegabilidad y estructura comercial de **Piedra Viva**, se implementaron los siguientes ajustes en WordPress:
 
-1. **Reestructuración de páginas principales:** Se organizó el sitio en cuatro secciones públicas claras y funcionales (**Inicio**, **Nosotros**, **Blog** y **Contacto**), eliminando borradores de prueba y textos predeterminados en inglés de la plantilla.
-2. **Optimización de textos y llamados a la acción:**
-   * En **Inicio**, se redactó una propuesta clara enfocada en la instalación y pulido de baldosas de alta durabilidad, enlazando el botón principal **Cotizar** directamente hacia la página **Contacto** (`piedraviva.freepage.cc/contacto/`).
+1. **Cambio de tema y diseño editorial:** Se migró al tema **Twenty Twenty-Five**, logrando una presentación más limpia, legible y minimalista para destacar tanto los servicios como las publicaciones del blog.
+2. **Reestructuración de páginas principales:** Se organizó el sitio en cuatro secciones públicas claras y funcionales (**Inicio**, **Nosotros**, **Blog** y **Contacto**), eliminando borradores de prueba y textos predeterminados en inglés de la plantilla.
+3. **Optimización de textos y llamados a la acción:**
+   * En **Inicio**, se redactó una propuesta directa enfocada en la *instalación y pulido de baldosas con terminaciones de alta durabilidad*, enlazando el llamado a la acción principal hacia la página **Contacto** (`piedraviva.freepage.cc/contacto/`).
    * En **Nosotros**, se detallaron los diferenciales técnicos del servicio, destacando la experiencia en obra y el trabajo especializado con baldosas microvibradas y líneas reconocidas como **Budnik**.
-3. **Implementación y poblamiento del Blog:** Se configuró la página **Blog** como vitrina dinámica de publicaciones y se redactaron e ilustraron **3 entradas informativas** con sus respectivas imágenes destacadas:
+4. **Implementación y poblamiento del Blog:** Se configuró la página **Blog** como vitrina dinámica de publicaciones y se redactaron e ilustraron **3 entradas informativas** con sus respectivas imágenes destacadas:
    * *¿Por qué elegir baldosas micro vibradas y Budnik para renovar tus pisos?*
    * *Pulido de baldosa: Cómo devolverle el brillo y proteger tus pisos antiguos*
    * *4 cuidados esenciales después de instalar o pulir tus baldosas*
